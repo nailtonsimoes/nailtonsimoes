@@ -1,6 +1,6 @@
 👋 Olá, Meu nome é Nailton Simões!    
 
-                    Sou estudante de sistemas p internet
+                    Sou desenvolvedor Mobile, atualmente trabalhando na Capgemini -
  busco me aprimorar diariamente para poder desenvolver soluções tecnológicas praticas.
                  
                  📚 Atualmente estou aprimorando meus conhecimentos em📚      
