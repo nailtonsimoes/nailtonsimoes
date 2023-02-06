@@ -10,11 +10,12 @@
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-blue?style=for-the-badge&amp;logo=flutter&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-3300FF?style=for-the-badge&logo=ionic&color=white)
 
 
 
 
 
                                📫 Onde me encontrar 📫 
-                        https://www.linkedin.com/in/nailtonsimoes/
+                        https://www.linkedin.com/in/nailtonsimoes/ ![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)
                         
