@@ -13,6 +13,7 @@
 ![Ionic](https://img.shields.io/badge/Ionic-3300FF?style=for-the-badge&logo=ionic&color=white)
 ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&color=gray) 
 ![NestJs](https://img.shields.io/badge/NestJS-4BC51D?style=for-the-badge&logo=nestjs&color=red)
+![Kotlin](https://img.shields.io/badge/Kotlin-F18E33?style=for-the-badge&logo=kotlin&color=brown)
 
 
 
