@@ -40,7 +40,7 @@ Conecte-se comigo no
 <br/>
 
 ## 📊 Estatísticas:
-Fique à vontade para explorar meu perfil e conferir minhas estatísticas no GitHub:
+Fique à vontade para explorar meu perfil e conferir minhas estatísticas no GitHub
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nailtonsimoes&show_icons=true&locale=pt-br&rank_icon=percentile&theme=highcontrast)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nailtonsimoes&locale=pt-br&layout=normal&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
