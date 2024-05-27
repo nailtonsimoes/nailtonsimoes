@@ -2,10 +2,6 @@
 
 Sou um desenvolvedor Fullstack e Mobile com paixão por tecnologia e busca constante por conhecimento. Atualmente, estou empregado na Capgemini, onde tenho a oportunidade de trabalhar em projetos desafiadores e desenvolver soluções práticas utilizando diversas tecnologias.
 
-Tenho experiência em desenvolvimento de aplicativos Android, utilizando Java e Kotlin, além de habilidades sólidas em Angular, Spring Boot, Node.js, HTML5, CSS3 e JavaScript. Sou apaixonado por desenvolvimento web e mobile, e estou sempre aprimorando minhas habilidades nessas áreas.
-
-Estou sempre aberto a novos desafios e gosto de trabalhar em equipe, compartilhando conhecimentos e aprendendo com meus colegas de equipe. Sou uma pessoa pró-ativa, comprometida e empenhada em entregar resultados de alta qualidade.
-
 <br/>
 
 ## 📚 Atualmente estou aprimorando meus conhecimentos em:
