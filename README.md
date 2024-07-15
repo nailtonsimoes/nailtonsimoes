@@ -1,6 +1,6 @@
-# 👋 Olá, meu nome é Nailton Simões!
+# 👋 Olá, meu nome é Nailton!
 
-Sou um desenvolvedor Fullstack e Mobile com paixão por tecnologia e busca constante por conhecimento. Atualmente, estou empregado na Capgemini, onde tenho a oportunidade de trabalhar em projetos desafiadores e desenvolver soluções práticas utilizando diversas tecnologias.
+Sou um desenvolvedor Fullstack e Mobile com paixão por tecnologia e busca constante por conhecimento. Estou sempre em busca de oportunidade de trabalhar em projetos desafiadores e desenvolver soluções práticas utilizando diversas tecnologias.
 
 <br/>
 
